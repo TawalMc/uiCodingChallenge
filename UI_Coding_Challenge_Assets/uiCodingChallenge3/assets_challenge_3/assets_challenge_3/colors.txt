@@ -1,0 +1,3 @@
+backgroundColor = #FFFFFF
+bottomSideBarColor = #F5F0E6
+topSideBarColor = #F5C168
