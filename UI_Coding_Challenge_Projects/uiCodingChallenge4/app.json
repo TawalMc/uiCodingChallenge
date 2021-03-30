@@ -1,0 +1,12 @@
+{
+  "name": "uiCodingChallenge4",
+  "displayName": "uiCodingChallenge4",
+  "expo": {
+    "name": "uiCodingChallenge4",
+    "slug": "uiCodingChallenge4",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
